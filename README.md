@@ -16,8 +16,8 @@ This is a full stack AI chat application where users can chat with an AI in real
  Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fullstack-ai-chat-app.git
-cd fullstack-ai-chat-app
+git --version
+cd C:\Users\rupes\OneDrive\Attachments\Desktop\fullstack-ai-chat-app
 ```
 
 Run Frontend
